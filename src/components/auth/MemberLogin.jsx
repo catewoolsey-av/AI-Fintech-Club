@@ -374,8 +374,8 @@ export const MemberLogin = ({ onLogin, members }) => {
       <Card className="w-full max-w-md">
         <div className="text-center mb-6">
           <img src="/av-logo.png" alt="AV logo" className="w-16 h-16 mx-auto mb-4 object-contain" />
-          <h1 className="text-2xl font-bold text-gray-900">Welcome to the<br />Israel Tech Venture Club</h1>
-          <p className="text-gray-500 mt-1">Investing in "The Startup Nation"</p>
+          <h1 className="text-2xl font-bold text-gray-900">Welcome to the<br />AI + Fintech Venture Club</h1>
+          <p className="text-gray-500 mt-1">Invest in the next wave of FinTech transformation.</p>
         </div>
         
         <form onSubmit={handleSubmit}>
